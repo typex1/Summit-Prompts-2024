@@ -45,9 +45,9 @@ Tell me the sentiment of the following headline and categorize it as either posi
 
 Research firm fends off allegations of impropriety over new technology.
 
-Answer: Negative
+Answer: Negative
 
-Offshore windfarms continue to thrive as vocal minority in opposition dwindles.
+Offshore windfarms continue to thrive as vocal minority in opposition dwindles.
 Answer: Positive
 
 Manufacturing plant is the latest target in investigation by state officials.
