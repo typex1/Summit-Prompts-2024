@@ -26,4 +26,44 @@ What is the capital of New York?
 ```
 What is the capital of New York? Provide the answer in a full sentence.
 ```
+```
+What is the capital of New York?
+```
+Slide 25:
+```
+Calculate the area of a circle with a radius of 3 inches (7.5 cm). Round your answer to the nearest integer.
+```
+Slide 34:
+```
+Tell me the sentiment of the following social media post and categorize it as positive, negative, or neutral:
+
+Don’t miss the electric vehicle revolution! AnyCompany is ditching muscle cars for EVs, creating a huge opportunity for investors.
+```
+Slide 36:
+```
+Tell me the sentiment of the following headline and categorize it as either positive, negative, or neutral. Here are some examples:
+
+Research firm fends off allegations of impropriety over new technology.
+
+Answer: Negative
+
+Offshore windfarms continue to thrive as vocal minority in opposition dwindles.
+Answer: Positive
+
+Manufacturing plant is the latest target in investigation by state officials.
+Answer:
+```
+Slide 38:
+```
+Which vehicle requires a larger down payment based on the following information?
+
+The total cost of vehicle A is $40,000, and it requires a 30 percent down payment.The total cost of vehicle B is $50,000, and it requires a 20 percent down payment.
+(Think step by step)
+```
+Slide 39:
+```
+In a given week, the viewers for a TV channel are as follows:Monday: 6,500 viewersTuesday: 6,400 viewersWednesday: 6,300 viewersQuestion: How many viewers can we expect on Friday?Answer: Based on the numbers given and without any more information, there is a daily decrease of 100 viewers. If we assume this trend will continue during the following days, we can expect 6,200 viewers on the next day that would be Thursday, and therefore 6,100 viewers on the next day that would be Friday.Question: How many viewers can we expect on Saturday? (Think step by step)
+Answer:
+```
+
 
