@@ -26,9 +26,6 @@ What is the capital of New York?
 ```
 What is the capital of New York? Provide the answer in a full sentence.
 ```
-```
-What is the capital of New York?
-```
 Slide 25:
 ```
 Calculate the area of a circle with a radius of 3 inches (7.5 cm). Round your answer to the nearest integer.
