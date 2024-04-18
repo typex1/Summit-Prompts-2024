@@ -74,6 +74,13 @@ Answer:
 Extensions:
 ```
 Insert punctuation and paragraphs to the following text:
+welcome to the huberman Lab podcast where we discuss science and science-based tools for everyday life I'm Andrew huberman and I'm a professor of neurobiology and
+Opthalmology at Stanford School of Medicine my guest today is Dr David joerger Dr David joerger is a professor
+of psychology at the University of Texas at Austin and one of the world's leading researchers into mindsets in particular
+growth mindset which is a mindset that enables people of all AG es to improve their abilities at essentially anything
+he is also a world expert into the stress is performance enhancing mindset which is a mindset that allows people to
+cognitively reframe stress and that when combined with growth mindset can lead to dramatic improvements and performance in
+cognitive and physical Endeavors Dr joerger is also the author of an important and extremely useful new book
 ```
 ```
 Explain X to an undergraduate
