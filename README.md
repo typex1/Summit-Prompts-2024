@@ -71,5 +71,14 @@ Answer: Based on the numbers given and without any more information, there is a 
 Question: How many viewers can we expect on Saturday? (Think step by step)
 Answer:
 ```
-
+Extensions:
+```
+Insert punctuation and paragraphs to the following text:
+```
+```
+Explain X to an undergraduate
+```
+```
+Explain X to a 12-year-old
+```
 
