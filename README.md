@@ -86,6 +86,9 @@ the following is a conversation with Jana kun he's considered to be one of the f
 Explain X to an undergraduate
 ```
 ```
-Explain X to a 12-year-old
+Explain gravitation to a 12-year-old
+```
+```
+You are a school teacher. Explain Machine Learning to an 8 year old child.
 ```
 
